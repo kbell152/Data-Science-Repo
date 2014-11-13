@@ -1,7 +1,7 @@
 Data-Science-Repo
 =================
 
-Repository:for Coursera Data Science class
+Repository for Coursera Data Science class
 
 ##Common Git Commands:
 ###Add New and Changed files to the github index db
