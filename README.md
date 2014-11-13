@@ -11,7 +11,7 @@ Repo for Coursera Data Science class
 * git add -A  :does both.
 
 
-###Then use the following to Upload the added Changes to github
+###Then use the following to Upload the Added Changes to github
 * git commit -m “message”  :where message is a description of the changes
 * git push :sends all committed changes to the github repository
 
